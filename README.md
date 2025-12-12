@@ -1,98 +1,38 @@
-📦 Wing Add-On UI (HTML/CSS)
+Wing HTML Website (HTML5 + CSS3)
 
-A simple, responsive UI for displaying Wing "Pack & Add-On" cards using only HTML & CSS.
-Clean layout, flexbox grid, and image-based addon cards.
+This project is a basic responsive website built using HTML5 and CSS3.
+It includes a navigation bar, banner, menu section, mobile plans, add-on cards, store list, and footer.
 
-🚀 Features
+What I Used
 
-Responsive addon card grid
+HTML5 for page structure
 
-Clean modern design
+CSS3 for layout and styling
 
-Easy to customize
+Flexbox & Grid for responsive design
 
-Pure HTML + CSS (no frameworks)
+Responsive media queries for mobile screens
 
-Supports images for each addon
+Reusable components (cards, buttons, layout blocks)
 
-📁 Project Structure
-html-Wing/
-│── index.html
-│── style.css
-│── assets/
-│     ├── data-plus.avif
-│     ├── rescue.avif
-│     └── learn.avif
-└── README.md
+Features
 
-🖼 Add-On Cards Preview
+Clean navigation bar with logo
 
-Each card supports an image + title, like:
+Centered banner section
 
-<div class="addon-card">
-  <img src="./assets/data-plus.avif" alt="Data+" />
-  <p>Data+</p>
-</div>
+Menu icons section
 
-🧩 HTML Example
-<section id="addons" class="container addons">
-  <h2 class="section-title">Pack & Add-On</h2>
+Mobile plan cards with pricing
 
-  <div class="addon-grid">
-    <div class="addon-card">
-      <img src="./assets/data-plus.avif" alt="Data+" />
-      <p>Data+</p>
-    </div>
+Add-on cards with images
 
-    <div class="addon-card">
-      <img src="./assets/rescue.avif" alt="Rescue Pack" />
-      <p>Data Rescue Add-on</p>
-    </div>
+Store locations grid
 
-    <div class="addon-card">
-      <img src="./assets/learn.avif" alt="Learn Add-On" />
-      <p>Learn Add-On</p>
-    </div>
-  </div>
-</section>
+Fully responsive footer
 
-🎨 CSS Example
-.addon-grid {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-top: 20px;
-}
+Modern UI with hover effects
 
-.addon-card {
-  background: #fff;
-  padding: 15px;
-  width: 300px;
-  border-radius: 15px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
+How to Run
 
-.addon-card img {
-  width: 100%;
-  border-radius: 12px;
-}
-
-.addon-card p {
-  margin-top: 12px;
-  font-size: 20px;
-  font-weight: 600;
-}
-
-🛠 How to Run
-
-Just open the index.html file in your browser:
-
-open index.html
-
-👤 Author
-
-Molika Leak
-
-GitHub → https://github.com/molikaleak
+Just open index.html in any browser.
