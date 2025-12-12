@@ -1,38 +1,37 @@
-Wing HTML Website (HTML5 + CSS3)
+📱 Cellcard Website (HTML5 + CSS3)
 
-This project is a basic responsive website built using HTML5 and CSS3.
-It includes a navigation bar, banner, menu section, mobile plans, add-on cards, store list, and footer.
+This project is a responsive Cellcard-themed website built using HTML5 and CSS3.
+It recreates key sections of the Cellcard homepage, including navigation, hero banner, mobile plans, add-ons, store listing, and footer.
 
-What I Used
+🚀 What I Used
 
-HTML5 for page structure
+HTML5 — clean and semantic page structure
 
-CSS3 for layout and styling
+CSS3 — styling, layout, and animations
 
-Flexbox & Grid for responsive design
+Flexbox & Grid — responsive layout system
 
-Responsive media queries for mobile screens
+Media Queries — optimized for mobile, tablet, and desktop
 
-Reusable components (cards, buttons, layout blocks)
+Reusable components — cards, buttons, and layout blocks
 
-Features
+🎨 Features
 
-Clean navigation bar with logo
+✔️ Cellcard-style navigation bar
+✔️ Hero banner section with centered content
+✔️ Menu shortcuts section
+✔️ Mobile plan cards with pricing
+✔️ Add-On cards (with images)
+✔️ Store locations grid
+✔️ Fully responsive footer
+✔️ Smooth spacing, modern UI, and hover effects
 
-Centered banner section
+▶️ How to Run
 
-Menu icons section
+Simply open:
 
-Mobile plan cards with pricing
+index.html
 
-Add-on cards with images
 
-Store locations grid
-
-Fully responsive footer
-
-Modern UI with hover effects
-
-How to Run
-
-Just open index.html in any browser.
+in any browser.
+No installation or setup needed.
