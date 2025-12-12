@@ -43,13 +43,13 @@ Reusable UI components – cards, buttons, layout sections
 
 ## 📸 Screenshots
 
-![Screenshot 1](1.png)
-![Screenshot 2](2.png)
-![Screenshot 3](3.png)
-![Screenshot 4](4.png)
-![Screenshot 5](5.png)
-![Screenshot 6](6.png)
-![Screenshot 7](7.png)
+![Screenshot 1](assets/1.png)
+![Screenshot 2](assets/2.png)
+![Screenshot 3](assets/3.png)
+![Screenshot 4](assets/4.png)
+![Screenshot 5](assets/5.png)
+![Screenshot 6](assets/6.png)
+![Screenshot 7](assets/7.png)
 ▶️ How to Run
 
 Download or clone the project.
