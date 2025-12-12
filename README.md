@@ -1,37 +1,63 @@
 📱 Cellcard Website (HTML5 + CSS3)
 
-This project is a responsive Cellcard-themed website built using HTML5 and CSS3.
-It recreates key sections of the Cellcard homepage, including navigation, hero banner, mobile plans, add-ons, store listing, and footer.
+This project is a fully responsive Cellcard-themed website built using pure HTML5 and CSS3. It recreates key UI sections from the official Cellcard homepage, including the navigation bar, hero banner, mobile plans, add-ons, store directory, and footer.
 
-🚀 What I Used
+👉 Live Demo: https://html-wing-m1jg1qb59-molikas-projects-323783dd.vercel.app/
 
-HTML5 — clean and semantic page structure
+🚀 Technologies Used
 
-CSS3 — styling, layout, and animations
+HTML5 – clean, semantic page structure
 
-Flexbox & Grid — responsive layout system
+CSS3 – styling, layout, and animations
 
-Media Queries — optimized for mobile, tablet, and desktop
+Flexbox & CSS Grid – responsive layout system
 
-Reusable components — cards, buttons, and layout blocks
+Media Queries – optimized for mobile, tablet, and desktop
+
+Reusable UI components – cards, buttons, layout sections
 
 🎨 Features
 
 ✔️ Cellcard-style navigation bar
-✔️ Hero banner section with centered content
-✔️ Menu shortcuts section
-✔️ Mobile plan cards with pricing
-✔️ Add-On cards (with images)
-✔️ Store locations grid
-✔️ Fully responsive footer
-✔️ Smooth spacing, modern UI, and hover effects
 
+✔️ Hero banner with centered text and call-to-action
+
+✔️ Shortcut menu section
+
+✔️ Mobile plan cards with pricing
+
+✔️ Add-on cards with images
+
+✔️ Store locations displayed in a responsive grid
+
+✔️ Fully responsive footer
+
+✔️ Modern spacing, hover effects, and clean UI
+
+📂 Project Structure
+/project
+│── index.html     # Main page  
+│── styles.css     # Core styling  
+│── /images        # Assets and icons  
+└── /sections      # Optional grouped components
+
+## 📸 Screenshots
+
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
+![Screenshot 4](4.png)
+![Screenshot 5](5.png)
+![Screenshot 6](6.png)
+![Screenshot 7](7.png)
 ▶️ How to Run
 
-Simply open:
+Download or clone the project.
 
-index.html
+Open index.html in any browser.
 
+No installation or setup required.
 
-in any browser.
-No installation or setup needed.
+📌 Summary
+
+This project demonstrates the ability to build a complete, modern, and responsive website interface using only HTML5 and CSS3, closely following the visual style of the official Cellcard website. It focuses on clean structure, reusable components, and responsiveness across all screen sizes.
